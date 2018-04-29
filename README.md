@@ -6,4 +6,4 @@ Instructors:
 - Chris Manning
 - Richard Socher
 
-Lectures Videos https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+Lectures Videos https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
